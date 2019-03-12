@@ -1,3 +1,8 @@
+# Versions:
+* Node: 11.3.0
+* npm: 6.7.0
+* nvm: 0.33.11
+
 # NgUdemyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
